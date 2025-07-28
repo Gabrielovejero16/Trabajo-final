@@ -1,2 +1,2 @@
-# Trabajo-final
-Trabajo final
+Este proyecto tiene la finalidad de mostrar productos a cerca de botines puma para su posterior compra, mostrando distintos modelos y precios (hasta con descuento), además cuanta con la posibilidad de poder mandar un formulario a la empresa.
+Etc.
